@@ -1,0 +1,115 @@
+{
+  "experiences": [
+    {
+      "title": "Scripting",
+      "description": "Description of experience 1",
+      "skills": [
+        {
+          "name": "Python",
+          "description": "Test",
+          "text": "```python \n print(hello) \n ```", "isCode": true        },
+        {
+          "name": "Powershell",
+          "description": "Description of Skill 2",
+          "text": "code", "isCode": true        },
+        {
+          "name": "Ruby",
+          "description": "Description of Skill 3",
+          "text": "code", "isCode": true        }
+      ]
+    },
+    {
+      "title": "Php",
+      "description": "Description of experience 3",
+      "skills": [
+        {
+          "name": "Skill 1",
+          "description": "Description of Skill 1",
+          "text": "code", "isCode": true        },
+        {
+          "name": "Skill 2",
+          "description": "Description of Skill 2",
+          "text": "code", "isCode": true        },
+        {
+          "name": "Skill 3",
+          "description": "Description of Skill 3",
+          "text": "code", "isCode": true        },
+        {
+          "name": "Skill 4",
+          "description": "Description of Skill 4",
+          "text": "code", "isCode": true        },
+        {
+          "name": "Skill 5",
+          "description": "Description of Skill 5",
+          "text": "code", "isCode": true        }
+      ]
+    },
+    {
+      "title": "UI Design",
+      "description": "Description of experience 4",
+      "skills": [
+        {
+          "name": "Tailwind CSS",
+          "description": "Description of Skill 1",
+          "text": "code", "isCode": true        },
+        {
+          "name": "Figma",
+          "description": "Description of Skill 2",
+          "text": "code", "isCode": true        },
+        {
+          "name": "Adobe Photoshop",
+          "description": "Description of Skill 3",
+          "text": "code", "isCode": true        },
+        {
+          "name": "Adobe Illustrator",
+          "description": "Description of Skill 4",
+          "text": "code", "isCode": true        }
+      ]
+    },
+    {
+      "title": "JavaScript Frameworks",
+      "description": "Description of experience 5",
+      "skills": [
+        {
+          "name": "React",
+          "description": "Description of Skill 1",
+          "text": "code", "isCode": true        },
+        {
+          "name": "Angular",
+          "description": "Description of Skill 2",
+          "text": "code", "isCode": true        },
+        {
+          "name": "Svelte",
+          "description": "Description of Skill 3",
+          "text": "code", "isCode": true        }
+      ]
+    },
+    {
+      "title": "ASP.NET Core",
+      "description": "Description of experience 5",
+      "skills": [
+        {
+          "name": "Entity Framework",
+          "description": "Description of Skill 1",
+          "text": "code", "isCode": true        },
+        {
+          "name": "Blazor",
+          "description": "Description of Skill 2",
+          "text": "![image](./images/BrandBlazor_nohalo_1000x.png)", "isCode": false        },
+        {
+          "name": "Lambda Functions",
+          "description": "Description of Skill 3",
+          "text": "code", "isCode": true        },
+        {
+          "name": "Skill 4",
+          "description": "Description of Skill 4",
+          "text": "code", "isCode": true        },
+        {
+          "name": "Skill 5",
+          "description": "Description of Skill 5",
+          "text": "code", "isCode": true        }
+      ]
+    }
+  ]
+  
+}
