@@ -4,7 +4,7 @@
 
   // import experienceData from "$lib/data/experience.json";
   // var experiences = experienceData.experiences;
-  var active = 0;
+  var active = -1;
   let experienceData;
   
   async function getExperienceData() {
@@ -73,7 +73,7 @@
     {#if experienceData}
      
 
-     <ExperinceSection  active="{active}" experienceData="{experienceData}" />
+     <!-- <ExperinceSection  active="{active}" experienceData="{experienceData}" /> -->
 {/if}
   </div>
 </div>
